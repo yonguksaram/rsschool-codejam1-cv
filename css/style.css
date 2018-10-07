@@ -1,0 +1,28 @@
+.wrapper {
+  width: 1024px;
+  margin: 5px auto;
+  background-color: rgb(113, 140, 192);
+}
+
+.head {
+  margin: 0px 100px 0px 100px;
+}
+
+.informationBlock {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  margin-bottom: 30px;
+}
+
+.pointOfResumee {
+  width: 300px;
+  margin: 0px 100px 0px 100px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.pointInformation {
+  width: 400px;
+  word-wrap: break-word;
+}
