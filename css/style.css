@@ -2,6 +2,7 @@
   width: 1024px;
   margin: 5px auto;
   background-color: rgb(113, 140, 192);
+  padding-top: 40px;
 }
 
 .head {
@@ -13,6 +14,8 @@
   flex-direction: row;
   justify-content: left;
   margin-bottom: 30px;
+  font-size: 14pt;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .pointOfResumee {
