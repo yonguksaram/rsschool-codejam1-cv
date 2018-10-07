@@ -9,11 +9,17 @@
   margin: 0px 100px 0px 100px;
 }
 
+.contentBlock{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .informationBlock {
   display: flex;
   flex-direction: row;
-  justify-content: left;
-  margin-bottom: 30px;
+  justify-content: right;
+  /* margin-bottom: 10px; */
   font-size: 14pt;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
